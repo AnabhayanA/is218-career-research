@@ -3,7 +3,9 @@
 **Website:** https://anabhayana.github.io/is218-career-research/  
 **Repository:** https://github.com/AnabhayanA/is218-career-research  
 **Last updated:** 2026-11-19  
-**Research question:** How do forward deployed engineering and AI application engineering differ, and which direction should shape my future portfolio?
+**Research question:** How can I become a software engineer who builds useful features with AI models and contributes to communities, and what do related employer roles expect?
+
+**Personal career goal:** Become a software engineer working with AI models and developing new product features that solve real problems. I want to use my skills to give back to the communities served by the organizations I work with, and to the broader community. This is an aspiration, not a claim that I have already achieved these outcomes.
 
 ## 1. Career research — original employer descriptions
 
@@ -17,7 +19,7 @@ Source check date for all three: **November 19, 2026**. The source pages are emp
 
 **What changes relative to a conventional software role?** The Catena posting explicitly joins engineering with customer deployment and operational debugging. Makai expects LLM workflow design and evaluation, while Arizent combines AI agents with business data quality and cross-functional work. This comparison is based on these three postings, not every job with these titles.
 
-**Two directions:** (A) forward deployed/customer-facing delivery and (B) AI application engineering. Both require engineering and communication. A emphasizes client-specific integration and field debugging; B emphasizes building/evaluating AI features and reliable data/LLM workflows. **Provisional choice:** B, because it aligns with a plan to demonstrate testable application features. **Next learning step:** make a small Python application feature with API integration, tests, and a written evaluation. **Assumption:** the chosen postings reasonably illustrate these directions; they are not a representative labor-market sample. Keep full personal reflection and circumstances in Canvas, not here.
+**Two directions:** (A) forward deployed/customer-facing delivery and (B) AI application engineering. Both require engineering and communication. A emphasizes client-specific integration and field debugging; B emphasizes building/evaluating AI features and reliable data/LLM workflows. **Provisional choice:** software engineering focused on applied AI and useful product features, because it aligns with my goal of building technology that benefits people. **Next learning step:** make a small Python application feature with API integration, tests, and a written evaluation. **Assumption:** the chosen postings reasonably illustrate these directions; they are not a representative labor-market sample. Keep full personal reflection and circumstances in Canvas, not here.
 
 ## 2. Scope and agile planning
 
@@ -46,11 +48,13 @@ Source check date for all three: **November 19, 2026**. The source pages are emp
 
 ## 3. Design alternatives and persuasion
 
-**Voice:** curious, practical, clear. **Character:** Creator with evidence-first proof.
+**Voice:** curious, practical, clear, community-minded. **Character:** Creator with evidence-first proof.
+
+**New visual direction (November 19):** A newspaper/editorial design inspired by traditional New York Times-style layouts, without copying its logo or brand. The site now uses an original masthead (“The Engineering Journal”), cream paper, strong serif typography, fine divider rules, editorial columns, and restrained red accents. This is a third, more personal direction that combines scanability with a recognizable editorial identity. The website was updated on GitHub, but live deployment, responsive behavior and accessibility still need browser verification.
 
 - **A — Evidence-first grid:** restrained typography, high contrast, project evidence visible early. **Strength:** scanability for reviewers. **Limitation:** can feel generic.
 - **B — Creative technical notebook:** expressive visual sections, experiments and process sketches. **Strength:** memorable personality and iteration. **Limitation:** more navigation and accessibility risk.
-- **Provisional choice:** A. The current homepage is a first lightweight example of A. A separate lightweight B mockup and peer comparison are not yet complete.
+- **Provisional choice:** A. The homepage has now been redesigned in an editorial newspaper style that preserves A’s emphasis on scanability. A separate lightweight B mockup and peer comparison are not yet complete.
 - **Persuasion choices:** link directly to inspectable code/tests; state contributions and limitations explicitly. Neither proves employability by itself.
 - **Visual reference:** to be selected and cited; do not present an invented reference as inspected.
 
